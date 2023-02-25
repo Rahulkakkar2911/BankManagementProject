@@ -1,0 +1,12 @@
+C:\Users\R.K.kar13\Desktop\Testing\Weekend Project\BankLibrary\obj\Debug\net5.0\BankLibrary.csproj.AssemblyReference.cache
+C:\Users\R.K.kar13\Desktop\Testing\Weekend Project\BankLibrary\obj\Debug\net5.0\BankLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\R.K.kar13\Desktop\Testing\Weekend Project\BankLibrary\obj\Debug\net5.0\BankLibrary.AssemblyInfoInputs.cache
+C:\Users\R.K.kar13\Desktop\Testing\Weekend Project\BankLibrary\obj\Debug\net5.0\BankLibrary.AssemblyInfo.cs
+C:\Users\R.K.kar13\Desktop\Testing\Weekend Project\BankLibrary\obj\Debug\net5.0\BankLibrary.csproj.CoreCompileInputs.cache
+C:\Users\R.K.kar13\Desktop\Testing\Weekend Project\BankLibrary\bin\Debug\net5.0\BankLibrary.deps.json
+C:\Users\R.K.kar13\Desktop\Testing\Weekend Project\BankLibrary\bin\Debug\net5.0\BankLibrary.dll
+C:\Users\R.K.kar13\Desktop\Testing\Weekend Project\BankLibrary\bin\Debug\net5.0\ref\BankLibrary.dll
+C:\Users\R.K.kar13\Desktop\Testing\Weekend Project\BankLibrary\bin\Debug\net5.0\BankLibrary.pdb
+C:\Users\R.K.kar13\Desktop\Testing\Weekend Project\BankLibrary\obj\Debug\net5.0\BankLibrary.dll
+C:\Users\R.K.kar13\Desktop\Testing\Weekend Project\BankLibrary\obj\Debug\net5.0\ref\BankLibrary.dll
+C:\Users\R.K.kar13\Desktop\Testing\Weekend Project\BankLibrary\obj\Debug\net5.0\BankLibrary.pdb
